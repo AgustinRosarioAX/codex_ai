@@ -1,1 +1,2 @@
 This is a ChatGPT like app called CodexAI, communication with advanced GPT3 model API, and most importantly, the ability to ask the AI for help regarding JavaScript, React, or any other programming language, giving it code and translating it to another programming language, and much more
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/3d8743c3-fa0b-414e-b080-285399680fd6">
